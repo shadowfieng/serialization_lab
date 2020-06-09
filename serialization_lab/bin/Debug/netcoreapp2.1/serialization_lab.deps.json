@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "059c6f8770447ef29e0449a4e6d892b20c2cf892"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "serialization_lab/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3",
+          "YamlDotNet": "8.1.2"
+        },
+        "runtime": {
+          "serialization_lab.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "YamlDotNet/8.1.2": {
+        "runtime": {
+          "lib/netstandard1.3/YamlDotNet.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.1.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "serialization_lab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "YamlDotNet/8.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GlPKbb4l+91dyYVKV7UnJlr2CWooNNM1ayZWC90QAmlFPgbwSkfhgId7dGjTAHqkB84BZqjMSy5PlAYf1iejVA==",
+      "path": "yamldotnet/8.1.2",
+      "hashPath": "yamldotnet.8.1.2.nupkg.sha512"
+    }
+  }
+}

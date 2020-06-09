@@ -1,0 +1,11 @@
+C:\Users\yngthg\source\repos\serialization_lab\serialization_lab\bin\Debug\netcoreapp2.1\serialization_lab.deps.json
+C:\Users\yngthg\source\repos\serialization_lab\serialization_lab\bin\Debug\netcoreapp2.1\serialization_lab.runtimeconfig.json
+C:\Users\yngthg\source\repos\serialization_lab\serialization_lab\bin\Debug\netcoreapp2.1\serialization_lab.runtimeconfig.dev.json
+C:\Users\yngthg\source\repos\serialization_lab\serialization_lab\bin\Debug\netcoreapp2.1\serialization_lab.dll
+C:\Users\yngthg\source\repos\serialization_lab\serialization_lab\bin\Debug\netcoreapp2.1\serialization_lab.pdb
+C:\Users\yngthg\source\repos\serialization_lab\serialization_lab\obj\Debug\netcoreapp2.1\serialization_lab.csprojAssemblyReference.cache
+C:\Users\yngthg\source\repos\serialization_lab\serialization_lab\obj\Debug\netcoreapp2.1\serialization_lab.csproj.CoreCompileInputs.cache
+C:\Users\yngthg\source\repos\serialization_lab\serialization_lab\obj\Debug\netcoreapp2.1\serialization_lab.AssemblyInfoInputs.cache
+C:\Users\yngthg\source\repos\serialization_lab\serialization_lab\obj\Debug\netcoreapp2.1\serialization_lab.AssemblyInfo.cs
+C:\Users\yngthg\source\repos\serialization_lab\serialization_lab\obj\Debug\netcoreapp2.1\serialization_lab.dll
+C:\Users\yngthg\source\repos\serialization_lab\serialization_lab\obj\Debug\netcoreapp2.1\serialization_lab.pdb
